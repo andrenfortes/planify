@@ -1,12 +1,12 @@
 # planify
 
-A new Flutter project.
+Planify é um app que serve ao público estudantil para planejar melhor a rotina de estudos e as frequências de aula. Desenvolvidos por alunos da UFSCar seguindo o design com foco no usuário para a matéria de Interação Humano-Computador.
 
-## Getting Started
+## O projeto
 
-This project is a starting point for a Flutter application.
+Esse projeto está sendo desenvolvido em Flutter, planejado com ferramentas como Compendium, Personas, Bechmarking e Entrevista.
 
-A few resources to get you started if this is your first Flutter project:
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
